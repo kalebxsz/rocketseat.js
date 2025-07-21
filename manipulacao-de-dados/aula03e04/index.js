@@ -18,7 +18,8 @@
 
  let word = 'Amostradinho'
  console.log(word.length)
+ 
  let number = 1234
-console.log(String(number).length)
+console.log(String(number).length)   // -> se eu não falar que number é uma string, ele não ira contar quantos números possuem na sentença. 
 
  
