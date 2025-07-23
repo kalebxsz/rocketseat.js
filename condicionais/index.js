@@ -44,7 +44,7 @@ quinta - dia 04
 Sexta - dia 05
 sabado - dia 06 */
 
-let dia = 6;
+/* let dia = 6;
 
 switch (dia) {
     case 0:
@@ -74,3 +74,11 @@ switch (dia) {
         console.log("não é um dia válido")
         break;
 }
+ */
+
+var A = 30;
+var B = 10;
+
+
+SOMA = A + B
+console.log("SOMA = " + SOMA)
